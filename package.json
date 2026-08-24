@@ -1,0 +1,15 @@
+{
+  "name": "prime-number-checker",
+  "version": "1.0.0",
+  "description": "Check if a number is prime or not.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prime",
+    "prime checker"
+  ],
+  "author": "",
+  "license": "ISC"
+}
